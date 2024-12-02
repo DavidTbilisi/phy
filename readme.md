@@ -23,10 +23,10 @@
    - $\( W = F \cdot d \)$ (if $\( F \)$ and $\( d \)$ are parallel)
 
 7. **Kinetic Energy**:
-   - $\( KE = \frac{1}{2}mv^2 \)$ - Moving things
+   - $\( K_e = \frac{1}{2}mv^2 \)$ - Moving things
 
 8. **Potential Energy**:
-   - $\( PE = mgh \)$ - Position
+   - $\( P_e = mgh \)$ - Position
 
 9. **Power**:
    - $\( P = \frac{W}{t} \)$
