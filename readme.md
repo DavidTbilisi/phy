@@ -25,10 +25,10 @@
    What is the SI unit of work? kg·m²/s²
 
 7. **Kinetic Energy**:
-   - $\( K_e = \frac{1}{2}mv^2 \)$ - Moving things
+   - $\( K_e = \frac{1}{2}mv^2 \)$ - Moving things (Half moved square)
 
 8. **Potential Energy**:
-   - $\( P_e = mgh \)$ - Position
+   - $\( P_e = mgh \)$ - Oposite of moving
 
 9. **Power**:
    - $\( P = \frac{W}{t} \)$
