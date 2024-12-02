@@ -21,6 +21,8 @@
 
 6. **Work**:
    - $\( W = F \cdot d \)$ (if $\( F \)$ and $\( d \)$ are parallel)
+  
+   What is the SI unit of work? kg·m²/s²
 
 7. **Kinetic Energy**:
    - $\( K_e = \frac{1}{2}mv^2 \)$ - Moving things
